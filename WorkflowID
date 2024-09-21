@@ -1,4 +1,4 @@
-name: CI Pipeline
+name: clemes-pi
 
 on:
   push:
